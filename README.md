@@ -1,5 +1,5 @@
 <p>Русская версия находится в файле README.ru.md.</p>
-<h1>Gulp project example for website development</h1>
+<h1>Gulp project for WordPress project</h1>
 <h2>Description</h2>
 <p>In this repository there is a template for website development with Gulp.</p>
 <p>In the template to use Pug and Stylus preprocessors.</p>
@@ -15,9 +15,9 @@
 </ol>
 <h2>Use the template</h2>
 <p>1. Cloning of the project:</p>
-<pre>git clone https://github.com/mikorn/gulp-project.git --depth 1 themes</pre>
+<pre>git clone https://github.com/mikorn/gulp-project-wp.git --depth 1 themes</pre>
 <p>Farther go to the folder:</p>
-<pre>cd my-gulp-project</pre>
+<pre>cd themes</pre>
 <p>2. Installing of npm-dependencies:</p>
 <pre>npm install</pre>
 <p>Or:</p>
