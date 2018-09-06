@@ -14,7 +14,7 @@
 </ol>
 <h2>Использование</h2>
 <p>1. Клонирование проекта:</p>
-<pre>git clone https://github.com/mikorn/gulp-project.git --depth 1 my-gulp-project</pre>
+<pre>git clone https://github.com/mikorn/gulp-project.git --depth 1 themes</pre>
 <p>Далее необходимо перейти в папку проекта:</p>
 <pre>cd my-gulp-project</pre>
 <p>2. Установка npm-зависимостей:</p>
