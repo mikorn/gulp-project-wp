@@ -1,5 +1,5 @@
 <p>Русская версия находится в файле README.ru.md.</p>
-<h1>Gulp project for WordPress project</h1>
+<h1>Gulp project for WordPress development</h1>
 <h2>Description</h2>
 <p>In this repository there is a template for website development with Gulp.</p>
 <p>In the template to use Pug and Stylus preprocessors.</p>
